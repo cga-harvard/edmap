@@ -1,0 +1,7 @@
+Project Name: EDMap  
+Source Link: https://github.com/gzambotti/edmap
+Live URL:http://cga-3.hmdc.harvard.edu/edmap/
+Author: Giovanni Zambotti (gzambotti@cga.harvard.edu; g.zambotti@gmail.com)  --- CGA Harvard
+Date: 6/21/2012
+Tech: Google Map API v3, Google Fusion Table, jquery 
+Description -  Web mapping application to display Emergency Department in USA
